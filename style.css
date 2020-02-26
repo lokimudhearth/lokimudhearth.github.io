@@ -1,10 +1,10 @@
 body { margin:0; padding:0; font-size:0.8em; line-height:20px; font-family: "Trebuchet MS", Arial; border:1px solid #666; background:#000; }
 a { color:#fffd48; text-decoration:none;}
 a:hover { text-decoration:underline;}
-#header { background:url(images/header_bckg.jpg) no-repeat top right #000;}
+#header { background:url(images/header_bckg.jpg) no-repeat top right;}
 #logo { padding:30px 20px 0 40px; height:188px; background:url(images/head_bckg.jpg) no-repeat; text-align:right;}
-#logo a{ color:#fff; text-decoration:none; font-weight:bold; font-size:20px; text-transform:uppercase; letter-spacing:5px; }
-#logo_text { float:right; width:240px; text-align:left; font-size:12px; color:#fffc00; }
+#logo a{ text-decoration:none; font-weight:bold; font-size:20px; text-transform:uppercase; letter-spacing:5px; }
+#logo_text { float:right; width:240px; text-align:left; font-size:12px; }
 #menu { background: url(images/menu_bckg.gif) repeat-x #000; height:64px; padding-top:23px;}
 #menu_list {width:550px; margin:0 auto;}
 #menu a { display:block; float:left; color:#f6ff00; font-size:13px; text-transform:uppercase; font-weight:bold; text-decoration:none; margin:0 20px; padding-top:10px;}
