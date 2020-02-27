@@ -14,7 +14,7 @@ a:hover { text-decoration:underline;}
 #text { margin: 0 305px 0 20px; }
 #text p { padding: 0 10px 5px 10px; color:#ccc}
 #text li {list-style:none; padding-left:20px; background:url(images/li.gif) no-repeat 0px 4px; color:#ccc;}
-#sidebar { float:none; width:235px; padding: 0 20px 0 10px; color:#fffd48; font-size:12px;}
+#sidebar { float:right; width:235px; padding: 0 20px 0 10px; color:#fffd48; font-size:12px;}
 #sidebar a{ font-weight:bold; }
 h1 { margin:0; padding:10px 0 0 10px; text-transform:uppercase; font-size:1.5em; color:#6bc22a;}
 
